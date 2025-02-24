@@ -1,13 +1,15 @@
 # Ultimae.ai
-/AE-Crypto-Journalist
-│── /src                      # Main source code
-│   ├── api                   # API handlers (X.com integration, web scraping)
-│   ├── ai                    # AI modules (text generation, image generation)
-│   ├── automation            # Scripts for posting, engaging with users
-│   ├── analysis              # Crypto market data analysis
-│── /docs                     # Documentation and setup guides
-│── /configs                  # Config files (API keys, environment variables)
-│── README.md                 # Project overview
-│── requirements.txt          # Python dependencies
-│── setup.py                  # Installation script
-│── LICENSE                   # Open-source license
+1. X.com (Twitter) Bot
+Scrapes breaking crypto news
+Generates financial analysis & AI visuals
+Posts tweets with trending hashtags
+Engages with users via replies
+2. AI-Generated Visuals
+Uses Ideogram API for crypto-inspired images
+Memes, trading charts, and abstract representations
+3. Automated Crypto Market Analysis
+Pulls BTC, ETH, SOL data from TradingView API
+Generates a summary & prediction tweet
+4. Adaptive AI Persona
+Uses a detailed ChatGPT prompt to maintain Æ's edgy & visionary tone
+Learns user interactions for better engagement
